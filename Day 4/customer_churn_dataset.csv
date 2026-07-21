@@ -1,0 +1,101 @@
+Gender,SeniorCitizen,Partner,Tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,Churn
+Female,0,No,7,27.24,190.68,Two year,Electronic check,No
+Female,0,Yes,5,28.59,142.95,One year,Electronic check,No
+Male,0,No,8,102.69,821.52,Month-to-month,Mailed check,Yes
+Male,1,Yes,29,24.66,715.14,Month-to-month,Bank transfer,No
+Female,0,Yes,40,76.03,3041.2,Two year,Mailed check,No
+Male,0,No,13,74.77,972.01,Month-to-month,Electronic check,Yes
+Male,1,No,41,66.56,2728.96,One year,Bank transfer,No
+Female,0,Yes,32,28.19,902.08,One year,Credit card,No
+Female,1,No,10,31.81,318.1,One year,Mailed check,Yes
+Female,0,No,54,23.92,1291.68,Two year,Electronic check,No
+Female,1,No,64,77.99,4991.36,One year,Electronic check,No
+Male,1,No,9,26.07,234.63,Two year,Bank transfer,Yes
+Female,1,No,45,22.26,1001.7,One year,Bank transfer,No
+Male,0,No,8,41.82,334.56,One year,Mailed check,No
+Male,1,No,64,28.06,1795.84,One year,Credit card,No
+Female,0,No,71,47.84,3396.64,One year,Bank transfer,No
+Female,0,Yes,11,37.62,413.82,Month-to-month,Mailed check,No
+Male,1,Yes,34,48.19,1638.46,Month-to-month,Credit card,No
+Female,1,Yes,66,115.02,7591.32,Two year,Electronic check,No
+Female,1,No,52,59.41,3089.32,One year,Credit card,No
+Male,0,Yes,27,64.06,1729.62,Month-to-month,Bank transfer,No
+Male,0,Yes,20,73.66,1473.2,One year,Electronic check,No
+Male,0,No,20,83.44,1668.8,One year,Bank transfer,No
+Female,0,Yes,63,119.31,7516.53,One year,Credit card,No
+Female,1,Yes,19,30.22,574.18,One year,Bank transfer,No
+Female,0,Yes,27,115.1,3107.7,Two year,Bank transfer,No
+Male,0,No,12,89.62,1075.44,One year,Bank transfer,No
+Male,1,Yes,69,74.16,5117.04,Two year,Bank transfer,No
+Male,0,Yes,52,93.99,4887.48,Month-to-month,Mailed check,No
+Female,1,Yes,4,99.01,396.04,One year,Bank transfer,Yes
+Male,1,No,45,115.5,5197.5,One year,Electronic check,No
+Male,0,Yes,61,39.67,2419.87,Month-to-month,Credit card,No
+Male,1,No,11,103.46,1138.06,Month-to-month,Credit card,Yes
+Male,1,Yes,56,98.91,5538.96,One year,Electronic check,No
+Female,1,No,11,92.48,1017.28,Month-to-month,Mailed check,Yes
+Male,0,No,19,81.16,1542.04,Two year,Credit card,No
+Female,0,Yes,3,21.42,64.26,Two year,Electronic check,No
+Male,1,Yes,28,22.8,638.4,Month-to-month,Bank transfer,No
+Male,1,No,70,61.9,4333.0,Month-to-month,Electronic check,No
+Female,1,No,65,33.08,2150.2,Month-to-month,Electronic check,No
+Female,0,Yes,20,37.23,744.6,One year,Electronic check,No
+Male,1,No,14,108.32,1516.48,Month-to-month,Mailed check,Yes
+Male,1,Yes,13,70.77,920.01,Two year,Electronic check,No
+Male,1,No,65,80.61,5239.65,Month-to-month,Bank transfer,No
+Female,1,Yes,67,107.65,7212.55,One year,Mailed check,No
+Female,0,No,16,59.24,947.84,One year,Electronic check,No
+Male,1,Yes,28,86.95,2434.6,Month-to-month,Mailed check,No
+Female,0,No,18,116.75,2101.5,Month-to-month,Electronic check,No
+Female,1,Yes,29,36.15,1048.35,One year,Credit card,No
+Female,1,Yes,46,51.85,2385.1,Two year,Bank transfer,No
+Male,1,No,57,90.32,5148.24,One year,Bank transfer,No
+Female,0,Yes,30,117.17,3515.1,Month-to-month,Electronic check,No
+Female,1,Yes,24,47.04,1128.96,Month-to-month,Credit card,No
+Female,1,Yes,69,111.92,7722.48,Two year,Credit card,No
+Female,0,No,8,99.96,799.68,Month-to-month,Credit card,Yes
+Male,1,Yes,12,100.16,1201.92,Month-to-month,Mailed check,Yes
+Male,1,Yes,59,21.15,1247.85,Two year,Credit card,No
+Female,0,Yes,68,90.95,6184.6,Month-to-month,Mailed check,No
+Female,0,Yes,26,113.22,2943.72,Two year,Bank transfer,No
+Male,1,No,65,87.22,5669.3,One year,Bank transfer,No
+Male,1,Yes,2,21.84,43.68,Two year,Mailed check,Yes
+Female,0,No,14,85.83,1201.62,Two year,Credit card,No
+Female,1,No,28,118.24,3310.72,One year,Mailed check,No
+Male,1,No,7,103.7,725.9,Month-to-month,Electronic check,Yes
+Female,1,Yes,8,28.45,227.6,One year,Bank transfer,Yes
+Male,1,Yes,59,38.54,2273.86,One year,Credit card,No
+Male,1,No,43,117.26,5042.18,Two year,Bank transfer,No
+Male,0,No,28,55.66,1558.48,Month-to-month,Bank transfer,No
+Female,0,No,36,70.28,2530.08,Month-to-month,Mailed check,No
+Male,0,No,12,34.39,412.68,Two year,Electronic check,No
+Female,0,No,39,82.97,3235.83,Month-to-month,Mailed check,No
+Female,1,No,20,48.42,968.4,Two year,Mailed check,No
+Male,1,Yes,68,95.29,6479.72,Two year,Electronic check,No
+Male,0,Yes,6,33.31,199.86,One year,Electronic check,No
+Female,1,Yes,3,82.62,247.86,Two year,Mailed check,Yes
+Female,1,Yes,59,99.77,5886.43,Two year,Electronic check,No
+Male,1,No,10,104.61,1046.1,Month-to-month,Mailed check,Yes
+Male,1,No,49,27.67,1355.83,Two year,Bank transfer,No
+Male,0,Yes,19,53.18,1010.42,Two year,Bank transfer,No
+Male,0,No,8,68.58,548.64,Two year,Electronic check,No
+Male,1,No,67,48.55,3252.85,One year,Credit card,No
+Male,0,No,11,113.63,1249.93,Month-to-month,Bank transfer,Yes
+Female,0,No,35,58.68,2053.8,Month-to-month,Electronic check,No
+Male,0,No,47,33.26,1563.22,Two year,Bank transfer,No
+Male,1,Yes,64,109.77,7025.28,One year,Credit card,No
+Male,0,Yes,63,88.16,5554.08,One year,Bank transfer,No
+Male,1,No,49,51.61,2528.89,One year,Electronic check,No
+Female,1,No,16,113.99,1823.84,Month-to-month,Electronic check,Yes
+Female,1,No,9,59.29,533.61,Two year,Electronic check,Yes
+Female,1,No,7,48.06,336.42,Month-to-month,Bank transfer,Yes
+Male,0,No,56,71.1,3981.6,Month-to-month,Bank transfer,No
+Female,0,No,71,74.92,5319.32,Two year,Electronic check,No
+Male,1,No,18,84.45,1520.1,One year,Credit card,No
+Male,0,Yes,61,61.49,3750.89,One year,Bank transfer,No
+Female,1,No,31,50.08,1552.48,Two year,Credit card,No
+Male,0,Yes,10,40.79,407.9,One year,Mailed check,No
+Female,1,No,55,33.96,1867.8,Month-to-month,Mailed check,No
+Male,0,No,72,29.11,2095.92,Month-to-month,Bank transfer,No
+Female,0,Yes,53,58.28,3088.84,Two year,Mailed check,No
+Female,1,No,8,69.81,558.48,Two year,Bank transfer,Yes
